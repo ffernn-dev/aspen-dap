@@ -8,7 +8,7 @@
 
 ## 10/27/2025 - Initial design planning  
 
-I had the idea for this project a while ago, and came up with the basic project requirements (you can find these on the README in the Github repo). I started properly researching to build the project on the 25th October.
+I had the idea for this project a while ago, and came up with the basic project requirements (you can find these on the [README in the Github repo](https://github.com/ffernn-dev/aspen-dap/blob/main/README.md)). I started properly researching to build the project on the 25th October.
 Started by making a mood board-type thing of design inspirations for an idea of what size/control scheme i want to target. I found https://walkman.land/ which is a really cool catalogue of walkman models with high-quality photos and tech specs, go check it out! The design of the TPS-l2 really speaks to me and with the big physical buttons on the side and front flap to load tapes so I want to see if I can combine that with a more ipod-like user-interface for my design.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d49ef166801bdd59d4e5ebfcbf7a004668c5e570/image.png)
 
